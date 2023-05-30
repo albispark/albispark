@@ -7,7 +7,7 @@ My names is Albi and I recently graduated with a degree in Engineering and Compu
 - 👯 I’m looking to collaborate on open source project with meaningful goals
 - 📫 How to reach me: you can write to me at <albics@proton.me>
 - ♟️ Hobbies: Chess player
-- 
+
 <!--
 **albispark/albispark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
