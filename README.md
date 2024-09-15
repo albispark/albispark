@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My names is Albi and I recently graduated with a degree in Engineering and Compuer Science.
+My names is Albi and I recently graduated with a degree in Engineering and Computer Science.
 
 - 🌱 I’m currently learning Cloud Full Stack technologies
 - 🧠 I'm very interested in Machine Learning, Computer Vision and Data Science
-- 👯 I’m looking to collaborate on open source project with meaningful goals
+- 👯 I’m looking to collaborate on open source projects with meaningful goals
 - 📫 How to reach me: you can write to me at <albics@proton.me>
 - ♟️ Hobbies: Chess player
 
