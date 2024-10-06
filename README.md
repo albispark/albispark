@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My names is Albi and I recently graduated with a degree in Engineering and Computer Science.
+My names is Albi and I am a master's student of Artificial Intelligence at the University of Bologna
 
-- 🌱 I’m currently learning Cloud Full Stack technologies
-- 🧠 I'm very interested in Machine Learning, Computer Vision and Data Science
+- 🌱 I’m currently working on innovative projects that leverage generative AI to automate testing phases
+- 🧠 I'm very interested in Machine Learning, Computer Vision and Artificial Intelligence
 - 👯 I’m looking to collaborate on open source projects with meaningful goals
 - 📫 How to reach me: you can write to me at <albics@proton.me>
 - ♟️ Hobbies: Chess player
