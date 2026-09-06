@@ -1,24 +1,12 @@
 ### Hi there 👋
 
-My names is Albi and I am a master's student of Artificial Intelligence at the University of Bologna
+I'm Albi — AI Engineer based in Italy.
 
-- 🌱 I’m currently working on innovative projects that leverage generative AI to automate testing phases
-- 🧠 I'm very interested in Machine Learning, Computer Vision and Artificial Intelligence
-- 👯 I’m looking to collaborate on open source projects with meaningful goals
-- 📫 How to reach me: you can write to me at <albics@proton.me>
-- ♟️ Hobbies: Chess player
+I build agentic systems with generative AI: multi-agent architectures, RAG, MCP integrations. Day to day I work on GenAI in regulated enterprise environments; this profile is where I keep the things I build for myself.
 
-<!--
-**albispark/albispark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building: a Telegram bot that monitors rental listings — migrating it from a Raspberry Pi to AWS to get my hands dirty with the infrastructure side (IaC, deployment, cost)
+- 🌱 Learning: automated evaluation for LLM systems, observability, AWS
+- 🧠 Interested in: agentic architectures, LLM evaluation, the gap between a demo that works and a system you can actually operate
+- 🛠️ Mostly Python. LangChain, LangGraph, Azure OpenAI, Claude, MCP
+- 📫 Reach me: <albics@proton.me> · [LinkedIn](https://www.linkedin.com/in/albi-spahiu/)
+- ♟️ Chess player
